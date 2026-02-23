@@ -20,3 +20,9 @@ val = (1,2,"rahul", 4.5)
 print(val)
 print(type(val))
 val[2] = "RAHUL"
+
+
+a = {1: "Saumya", 2: "Test Automation Engineer", "3": 5}
+print(a)
+print(type(a))
+print(a[3])
