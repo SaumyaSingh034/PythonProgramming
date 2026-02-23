@@ -11,3 +11,11 @@ c, d, e = 1, 8.99, "Test Automation Engineer"
 print(c)
 print(d)
 print(e)
+
+
+
+print("{} {}".format("Value is ", b))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
