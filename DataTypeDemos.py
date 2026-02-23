@@ -12,3 +12,11 @@ print(type(values))
 print(type(values[0]))
 
 values[3] = "SAUMYA"
+
+
+
+# Tuples is immutable and List in mutable
+val = (1,2,"rahul", 4.5)
+print(val)
+print(type(val))
+val[2] = "RAHUL"
