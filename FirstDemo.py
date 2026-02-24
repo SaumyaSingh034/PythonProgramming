@@ -14,7 +14,7 @@ print(e)
 
 
 
-print("{} {}".format("Value is ", b))
+print("{} {} {}".format("Value is ", b , type(b)))
 print(type(a))
 print(type(b))
 print(type(c))
